@@ -1,6 +1,6 @@
 ### Hello👋
 
-I've been working on fastlane/fastlane lately. Please [sponsor me](https://github.com/sponsors/ainame) if you find my changes are useful/helpful.
+I've been working on [fastlane/fastlane](https://github.com/fastlane/fastlane) lately. Please [sponsor me](https://github.com/sponsors/ainame) if you find my changes are useful/helpful.
 
 <!--
 **ainame/ainame** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
